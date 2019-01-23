@@ -1,3 +1,7 @@
+# This function computes the complete tilted correlation matrix 
+# using method 3.3 
+# for a matrix X, using threshold r
+
 average_tilt <- function(X, r) {
   
   #  transform data to have mean 0 and norm 1 

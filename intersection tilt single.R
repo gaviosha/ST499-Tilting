@@ -1,3 +1,8 @@
+# This function computes entry (v1,v2)
+# of the tilted correlation matrix for X 
+# using method 3.1 
+# given threshold r
+
 intersection_tilt_single <- function(v1, v2, X, r) {
   
   #  transform data to have mean 0 and norm 1 
