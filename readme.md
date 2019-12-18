@@ -1,5 +1,13 @@
 # READ ME 
 
+Code repoduce tables and figures in my MSc dissertation title "Screening High Dimensional Time Series via Tilting".
+
+## Depends 
+
+R >= 3.0.0
+
+## Running parallel code 
+
 Please note that to reduce the runtime parallel computing was used to compute stable tilted correlations. 
 If you are running this code on a machine with less than eight cores go to line **444** in the setup file and run the following to detect the number of cores on your machine: 
 
@@ -20,5 +28,3 @@ Wherever a `foreach` function is used please add the following argument:
 ```
 
 where `…` stands for the packages loaded in lines **6-14** of the setup file. 
-
-
