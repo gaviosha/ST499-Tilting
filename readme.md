@@ -7,7 +7,7 @@ Code in this repository reproduces tables and figures in my MSc dissertation tit
 The directory structure for this repository is as follows: 
 
 ```
-Dimension-Reduction-Trees
+ST499-Tilting-
     |
     |--dissertation 
     |
