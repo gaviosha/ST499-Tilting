@@ -1,6 +1,6 @@
-# READ ME 
+# Screening High Dimensional Time Series via Tilting
 
-Code in this repository reproduces tables and figures in my MSc dissertation titled "Screening High Dimensional Time Series via Tilting".
+Code in this repository reproduces tables and figures in my MSc dissertation.
 
 ## Directories
 
