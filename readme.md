@@ -1,6 +1,6 @@
 # Screening High Dimensional Time Series via Tilting
 
-Code in this repository reproduces tables and figures in my MSc dissertation.
+This repository contains code for building my MSc dissertation, which investigated a new feature screening procedure for high dimensional time series based on [Cho & Fryzlewicz (2012)](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9868.2011.01023.x).
 
 ## Abstract
 
@@ -22,7 +22,7 @@ To generate the dissertation itself build `main.tex` from within `.\tex`.
 
 ### Generating plots and figures
 
-To set up the global environment run the `setup.R` file in `.\R`, then see R scripts for each plot. 
+To set up the global environment run the `setup.R` file in `.\R`, then see R scripts for each plot.
 
 ### Running parallel code
 
